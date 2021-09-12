@@ -1,5 +1,12 @@
 input{
     padding: 1rem ;
     width: 40vw;
+
+}
+.heading{
+    padding-left: 1rem;
+}
+.container{
+    padding: 1rem;
 }
 
